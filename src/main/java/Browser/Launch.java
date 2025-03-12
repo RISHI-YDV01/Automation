@@ -8,7 +8,6 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class Launch {
 
 	static  ChromeDriver driver;
-
 	public static void main(String[] args) {
 		
 		ChromeOptions opt = new ChromeOptions();
