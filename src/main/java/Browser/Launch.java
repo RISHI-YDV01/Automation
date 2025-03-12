@@ -10,8 +10,6 @@ public class Launch {
 	static  ChromeDriver driver;
 
 	public static void main(String[] args) {
-
-		
 		
 		ChromeOptions opt = new ChromeOptions();
 		opt.addArguments("--incognito");
